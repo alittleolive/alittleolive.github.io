@@ -43,4 +43,3 @@ recipe:
     4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
     5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
-If 
