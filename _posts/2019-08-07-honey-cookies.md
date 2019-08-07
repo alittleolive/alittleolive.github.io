@@ -3,7 +3,7 @@ date: 2019-08-07
 title: Honey Cookies
 categories:
   - Cookies
-featured_image: https://raw.githubusercontent.com/alittleolive/alittleolive.github.io/master/images/honey_cookies.jpg?w=1560&h=940&fit=crop
+featured_image: https://raw.githubusercontent.com/alittleolive/alittleolive.github.io/master/images/honey_cookies.jpg?w=1000&h=600&fit=crop
 
 recipe:
   servings: 30 cookies
