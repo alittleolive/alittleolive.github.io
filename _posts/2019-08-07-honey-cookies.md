@@ -6,7 +6,7 @@ categories:
 featured_image: https://raw.githubusercontent.com/alittleolive/alittleolive.github.io/master/images/honey_cookies.jpg?w=1560&h=940&fit=crop
 
 recipe:
-  servings: 60 cookies
+  servings: 30 cookies
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
@@ -26,14 +26,5 @@ recipe:
 ---
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+![Cookie](https://raw.githubusercontent.com/alittleolive/alittleolive.github.io/master/images/honey_cookies.jpg?w=1560&h=940&fit=crop)
 
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
