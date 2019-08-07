@@ -3,7 +3,8 @@ date: 2019-08-07
 title: Honey Cookies
 categories:
   - Cookies
-featured_image: https://instagram.fham1-1.fna.fbcdn.net/vp/32268e700318c1aaf409122a9d1f73c3/5DE90062/t51.2885-15/e35/66053865_445348869638962_6832292087414884439_n.jpg?_nc_ht=instagram.fham1-1.fna.fbcdn.net?w=1560&h=940&fit=crop
+featured_image: https://github.com/alittleolive/alittleolive.github.io/blob/master/images/honey_cookies.jpg?w=1560&h=940&fit=crop
+
 recipe:
   servings: 60 cookies
   prep: 15 minutes
